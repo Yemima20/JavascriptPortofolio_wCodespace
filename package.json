@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://yemima20.github.io/JavascriptPortofolio_wCodespace",
+  "homepage": "http://yemima20.github.io/JavascriptPortofolio_wCodespace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
