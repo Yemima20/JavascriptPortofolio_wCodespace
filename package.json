@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Yemima20.github.io/JavascriptPortofolio_wCodespace",
+  "homepage": "https://yemima20.github.io/JavascriptPortofolio_wCodespace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Yemima20.github.io/JavascriptPortofolio_wCodespace'",
+    "build-gh": "parcel build --public-url 'https://yemima20.github.io/JavascriptPortofolio_wCodespace'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
